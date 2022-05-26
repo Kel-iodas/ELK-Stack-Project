@@ -1,3 +1,4 @@
+###################### Metricbeat Configuration Example #######################
 
 # This file is an example configuration file highlighting only the most common
 # options. The metricbeat.reference.yml file from the same directory contains all the
